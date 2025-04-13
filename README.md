@@ -14,7 +14,7 @@ Follow these steps to set up this project locally:<br/>
 1. Clone the repo<br/>
 git clone https://github.com/andriy-fesych/ToDo_application.git<br/>
 2. This project was build on node version 14.21.3, but running completely fine on v20<br/>
-If You are using node version 20, skip step 3. Otherwise, to easily switch between node versions I recommend using NVM:<br/>
+If You are using node version 20+, skip step 3. Otherwise, to easily switch between node versions I recommend using NVM:<br/>
 [Node Version Manager install guide](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)<br/>
 Using this guide ☝️ choose NVM v1.1.12 [from here](https://github.com/coreybutler/nvm-windows/releases/tag/1.1.12), as it is more stable<br/>
 3. Now to use correct node version:<br/>
