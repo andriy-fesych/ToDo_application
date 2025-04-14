@@ -34,10 +34,10 @@ yarn start<br/>
 Features:<br/>
 🔥 Routing made with React Router<br/>
 💾 Two ways to store ToDos<br/>
-&emsp;⭐ Local Todos stored in local storage, on the machine you are using.<br/>
-&emsp;🌐 Cloud Todos stored on the server, and accessible from any device, if you remember your email (serves as a unique identifier).<br/>
+&emsp;&emsp;⭐ Local Todos stored in local storage, on the machine you are using.<br/>
+&emsp;&emsp;🌐 Cloud Todos stored on the server, and accessible from any device, if you remember your email (serves as a unique identifier).<br/>
 ⚡ Registration Form available for new users:<br/>
-&emsp;📀 if You are a registered user, just press login in the top right, and enter your email;<br/>
-&emsp;💿 if You are not registered, just type in your email, and press Enter - a registration form will appear, for You to create an account;<br/>
+&emsp;&emsp;📀 if You are a registered user, just press login in the top right, and enter your email;<br/>
+&emsp;&emsp;💿 if You are not registered, just type in your email, and press Enter - a registration form will appear, for You to create an account;<br/>
 🗃️ You can filter todos based on their completion status.<br/>
 🧽 You may also wipe completed todos from the list ("Clear completed" button).<br/>
